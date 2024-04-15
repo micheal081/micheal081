@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend engineer with so much drive in Artificial Intelligence🤖</h3>
 <br><br>
 
-<img align="right" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" width="500"/>
+<img align="right" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" width="250"/>
 
 - 🔭 I’m currently working on **AI in Finance**
 
