@@ -1,23 +1,23 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGla9vY5in6dg/profile-displaybackgroundimage-shrink_350_1400/0/1690464818059?e=1718841600&v=beta&t=HAfElqGi5uVvmZOagdqhk5Kc8AM_ZUsZwqBvcjuVjdo)
 <h1 align="center">Hi 👋, I'm Micheal</h1>
-<h3 align="center">A passionate backend engineer with so much drive in Artificial Intelligence🤖</h3>
+<h3 align="center">A passionate Full stack engineer with so much drive in Artificial Intelligence🤖</h3>
 <br><br>
 
 <img align="right" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp" width="400"/>
 
-- 🔭 I’m currently working on **AI in Finance**
+- 🔭 I’m currently working on **AI in Finance and Health**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/micheal081](https://github.com/micheal081)
 
-- 💬 Ask me about **Node.Js, NestJs, Generative AI, LLM, Travels, Sports and Movies**
+- 💬 Ask me about **React Native, Expo, Node.Js, NestJs, Generative AI, LLM, Travels, Sports and Movies**
 
 - 📫 How to reach me **michig3000@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OOXk6NLHEN9YJFGzar0_ZGAbIB0IKrzM/view?usp=sharing)
 
-- ⚡ Fun fact **Being a backend developer often means coding in pajamas, enjoying the flexibility of remote work, savoring the thrill of optimizing database queries, and occasionally indulging in late-night debugging sessions fueled by copious amounts of coffee.**
+- ⚡ Fun fact **Being a full stack engineer often means coding in pajamas, enjoying the flexibility of remote work, savoring the thrill of optimizing database queries, and occasionally indulging in late-night debugging sessions fueled by copious amounts of coffee.**
 
 <br>
 
