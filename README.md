@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **michig3000@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14OL7maojE2v8b36PlVAQV5bbnZcxhlvc/view?usp=sharing](https://drive.google.com/file/d/1OOXk6NLHEN9YJFGzar0_ZGAbIB0IKrzM/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OOXk6NLHEN9YJFGzar0_ZGAbIB0IKrzM/view?usp=sharing)
 
 - ⚡ Fun fact **Being a backend developer often means coding in pajamas, enjoying the flexibility of remote work, savoring the thrill of optimizing database queries, and occasionally indulging in late-night debugging sessions fueled by copious amounts of coffee.**
 
