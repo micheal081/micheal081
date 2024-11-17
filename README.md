@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGla9vY5in6dg/profile-displaybackgroundimage-shrink_350_1400/0/1690464818059?e=1718841600&v=beta&t=HAfElqGi5uVvmZOagdqhk5Kc8AM_ZUsZwqBvcjuVjdo)
+![MasterHead](https://drive.google.com/file/d/1VTFplm70dlhFVvX9cPxUm6kqcReltx6y/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Micheal</h1>
 <h3 align="center">A passionate Full stack engineer with so much drive in Artificial Intelligence🤖</h3>
 <br><br>
