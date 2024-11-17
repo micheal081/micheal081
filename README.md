@@ -1,4 +1,4 @@
-![MasterHead](https://www.vecteezy.com/photo/36793679-ai-generated-a-laptop-is-set-on-a-table-next-to-coffee-and-other-essential-items)
+<img src="https://www.vecteezy.com/photo/36793679-ai-generated-a-laptop-is-set-on-a-table-next-to-coffee-and-other-essential-items" width="400"/>
 <h1 align="center">Hi 👋, I'm Micheal</h1>
 <h3 align="center">A passionate Full stack engineer with so much drive in Artificial Intelligence🤖</h3>
 <br><br>
