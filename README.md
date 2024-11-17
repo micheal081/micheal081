@@ -1,4 +1,4 @@
-![MasterHead](https://unsplash.com/photos/macbook-pro-K6opDxIiC_Q)
+![MasterHead](https://www.vecteezy.com/photo/36793679-ai-generated-a-laptop-is-set-on-a-table-next-to-coffee-and-other-essential-items)
 <h1 align="center">Hi 👋, I'm Micheal</h1>
 <h3 align="center">A passionate Full stack engineer with so much drive in Artificial Intelligence🤖</h3>
 <br><br>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **michig3000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12kwsLN4mq-iVHBtvPE_tMCa8AklA_PLE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1_p7mnrTArGzTtfpOXhgxLxtgVvkxU-CxUfGz_205yXo/edit?usp=drive_link)
 
 - ⚡ Fun fact **Being a full stack engineer often means coding in pajamas, enjoying the flexibility of remote work, savoring the thrill of optimizing database queries, and occasionally indulging in late-night debugging sessions fueled by copious amounts of coffee.**
 
