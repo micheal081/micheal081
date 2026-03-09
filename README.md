@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **michig3000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1_p7mnrTArGzTtfpOXhgxLxtgVvkxU-CxUfGz_205yXo/edit?usp=drive_link)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/micheal-ighietsemhe-502640222/)
 
 - ⚡ Fun fact **Being a full stack engineer often means coding in pajamas, enjoying the flexibility of remote work, savoring the thrill of optimizing database queries, and occasionally indulging in late-night debugging sessions fueled by copious amounts of coffee.**
 
